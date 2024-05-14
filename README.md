@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lytle-David-Smith
-- 👀 I’m interested in SQL, Python, Django, PHP, Javascript, Node.js, VBA, and M.
-- 🌱 I’m currently learning Python and Django.
+- 👀 I’m interested in SQL, Python, PHP, VBA, and M.
 - 📫 Reach me at David@PCLou.com.
 
 <!---
